@@ -1,9 +1,10 @@
-## Elina Grudskova
+# Elina Grudskova
 
-### Junior Frontend Developer
+## Junior Frontend Developer
 Novi Sad, Serbia
+
 ___
-#### Contacts:
+### Contacts:
 
 * **Phone:** +381 63 8858540
 * **Email:** egrudskova@yandex.ru
@@ -11,7 +12,7 @@ ___
 * **Github** [@egrudskova](https://github.com/egrudskova)
 
 ___
-#### About:
+### About:
 
 I am a 2nd year master's student at HSE University, studying Computer Science.
 Currently working as a data analyst, I am eager to transition into the dynamic field of web development, and I am enthusiastic about pursuing a career as a Junior Frontend Developer. 
@@ -23,8 +24,9 @@ This experience provided me with the opportunity to collaborate with groupmates 
 This enriched my perspective and instilled in me a deep appreciation for diversity, making me a strong team player who is well-accustomed to thriving in multicultural settings. 
 
 At 23 years old, I am driven to leverage my academic background and practical experience to contribute to the future of web development as a dedicated and motivated team member.
+
 ___
-#### Skills:
+### Skills:
 
 * HTML5, CSS3
 * JavaScript
@@ -33,7 +35,7 @@ ___
 * Figma
 
 ___
-#### Code example:
+### Code example:
 
 ```javascript
 function multiply(a, b){
@@ -42,7 +44,7 @@ function multiply(a, b){
 ```
 
 ___
-#### University:
+### University:
 
 * **Master:** Higher School of Economics, Russia. Applied Mathematics and Information Science'24 (current)
 
@@ -51,7 +53,7 @@ ___
   * ICN Business School, France. Business Administration'21
 
 ___
-#### Courses:
+### Courses:
 
 * **RS School**: JavaScript/Front-end'24 (current)
 * **HTML Academy**:
@@ -60,7 +62,7 @@ ___
 * **Coursera**: Mathematical Thinking in Computer Science'22
 
 ___
-#### Languages:
+### Languages:
 
 * English - Upper-intermediate
 * Russian - Native
